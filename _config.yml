@@ -1,0 +1,28 @@
+name: Armour bearer. io
+favicon: null
+layout_spectrum: 0.1893769814632833
+typography_spectrum: 0.6554529976565391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9313876612577587
+  lightness: 0.31188630964607
+  saturation: 0.1404115715995431
+  rhythmicContrast: 0.8240513624623418
+purpose: []
