@@ -1,28 +1,40 @@
-name: Armour bearer. io
-favicon: null
-layout_spectrum: 0.1893769814632833
-typography_spectrum: 0.6554529976565391
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+  saturation: 0.1404115715995431
   brandStrength: 0.9313876612577587
   lightness: 0.31188630964607
-  saturation: 0.1404115715995431
+  brandColors:
+    - '#FFFFFF'
+    - '#010101'
+    - '#DAC29C'
+    - '#71604E'
+    - '#C93C12'
   rhythmicContrast: 0.8240513624623418
-purpose: []
+typography_spectrum: 0.7363051
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2368421
+favicon: null
+name: Armour bearer. io
