@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Armour bearer. io
 opengraph:
   image: null
   type: null
@@ -20,21 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.1404115715995431
+  saturation: 0.5075188
   brandStrength: 0.9313876612577587
-  lightness: 0.31188630964607
+  lightness: 0.3549946
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#DAC29C'
     - '#71604E'
     - '#C93C12'
-  rhythmicContrast: 0.8240513624623418
+  rhythmicContrast: 0.6632653
 typography_spectrum: 0.7363051
+layout_spectrum: 0.2368421
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2368421
-favicon: null
-name: Armour bearer. io
+analytics:
+  twitter: null
+  google: null
+  facebook: null
