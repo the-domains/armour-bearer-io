@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Armour bearer. io]]></title>
+        <description><![CDATA[Armour bearer. io]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 May 2016 14:40:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Possess Our Possession ]]></title>
+            <description><![CDATA[<article><h1>Possess Our Possession </h1><p>AB Family </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8dc7a10a9ff761749cb140895bdf8d62342cc441.jpg"></article>]]></description>
+            <link>undefinedpossess-our-possession/index.html</link>
+            <guid isPermaLink="false">72166bac-03c1-4705-bcd0-17d046a82e2c</guid>
+            <pubDate>Tue, 17 May 2016 14:40:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
